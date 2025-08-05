@@ -1,0 +1,2 @@
+# Exercício 4.7 - Analise o Programa 4.3. Faz sentido usar o else nesse programa? Explique sua resposta.
+# Não faz sentido usar o else nesse programa, pois as duas condições são mutuamente exclusivas. Ou o salário é menor ou igual a 1250,00 ou é maior que 1250,00. Portanto, usar dois ifs separados é mais claro e direto.

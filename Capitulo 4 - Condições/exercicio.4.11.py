@@ -1,0 +1,1 @@
+# Exercício 4.11 - Aprove ou negue um empréstimo para compra de casa. Pergunte valor da casa, salário e anos para pagar. Prestação mensal não pode exceder 30% do salário. Prestação = valor da casa / (anos * 12).
